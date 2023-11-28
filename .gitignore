@@ -1,0 +1,8 @@
+# Игнорировать файлы и папки, созданные IDE
+.idea/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.vcxproj
+*.vcxproj.filters
